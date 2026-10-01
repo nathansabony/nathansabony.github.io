@@ -110,7 +110,7 @@ p { margin: 0 0 1em; }
 .job-body p:last-child { margin-bottom: 0; }
 
 /* Leadership */
-.lead-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.lead-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
 .lead-card { background: var(--white); border: 1px solid var(--line); border-top: 4px solid var(--gold); border-radius: var(--radius); padding: 24px; }
 .lead-card h3 { font-family: var(--serif); font-size: 1.3rem; margin-bottom: .1em; }
 .lead-card p:last-child { margin-bottom: 0; font-size: .95rem; }
